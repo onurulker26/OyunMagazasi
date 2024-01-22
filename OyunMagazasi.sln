@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OyunMagazasi", "OyunMagazasi\OyunMagazasi.csproj", "{0AC9B593-55C3-4F07-86DD-D61CE6314100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC9B593-55C3-4F07-86DD-D61CE6314100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC9B593-55C3-4F07-86DD-D61CE6314100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC9B593-55C3-4F07-86DD-D61CE6314100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC9B593-55C3-4F07-86DD-D61CE6314100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {569E5FEF-2E05-4800-9478-AAB7F659A771}
+	EndGlobalSection
+EndGlobal
